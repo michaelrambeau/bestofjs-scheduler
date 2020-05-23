@@ -1,0 +1,16 @@
+{
+  "name": "bestofjs-scheduler",
+  "version": "1.0.0",
+  "description": "Webhook scheduler to run on CI servers",
+  "main": "main.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "got": "^11.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./main"
+  },
+  "author": "Michael Rambeau",
+  "license": "ISC"
+}
